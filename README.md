@@ -4,5 +4,12 @@
 </a>
 
 <h1>Factual Statements</h1>
-- [x] Me
-- [ ] You
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
