@@ -2,6 +2,3 @@
 <a href="https://github.com/IsThatTheRealNick">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsThatTheRealNick&theme=radical" />
 </a>
-
-<h1>Factual Statements</h1>
-<a href="https://www.youtube.com/">Me > You</a>
