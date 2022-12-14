@@ -4,4 +4,4 @@
 </a>
 
 <h1>Factual Statements</h1>
-<h2>Me > You</h2>
+[Me > You](vrchat.com)
