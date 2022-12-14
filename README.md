@@ -1,4 +1,4 @@
-(https://github-readme-stats.vercel.app/api/top-langs/?username=IsThatTheRealNick&theme=radical)
+[Top](https://github-readme-stats.vercel.app/api/top-langs/?username=IsThatTheRealNick&theme=radical)
 https://github-readme-stats.vercel.app/api?username=IsThatTheRealNick&theme=radical
 
 
